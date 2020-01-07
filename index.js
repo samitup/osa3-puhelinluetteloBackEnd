@@ -21,23 +21,23 @@ let api = [
 
   persons = [
     {
-      name: "Erkki Esimerkki",
-      number: "040-123456",
+      name: 'Erkki Esimerkki',
+      number: '040-123456',
       id: 1
     },
     {
-      name: "Pentti Desimaalimerkki",
-      number: "040-765433",
+      name: 'Pentti Desimaalimerkki',
+      number: '040-765433',
       id: 2
     },
     {
-      name: "Jorma Uotila",
-      number: "040-456789",
+      name: 'Jorma Uotila',
+      number: '040-456789',
       id: 3
     },
     {
-      name: "Sirpa-Leena Unelma",
-      number: "040-76543",
+      name: 'Sirpa-Leena Unelma',
+      number: '040-76543',
       id: 4
     }
   ]
